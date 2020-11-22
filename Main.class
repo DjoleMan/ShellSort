@@ -1,0 +1,24 @@
+Êþº¾   4 F
+  *
+  +	 , - .
+ / 0 1
+  *
+  2 3
+  4
+  5
+ / 6 7 8 9 : <init> ()V Code LineNumberTable LocalVariableTable this Lcom/company/Main; main ([Ljava/lang/String;)V 
+newElement I j i gap args [Ljava/lang/String; intArray [I 
+StackMapTable " print ([I)V a 
+SourceFile 	Main.java   % & ; < = #---------------NIZ----------------
+ > ? @ java/lang/StringBuilder A B , A C D E % @ 
+ #---------------END----------------
+ com/company/Main java/lang/Object java/lang/System out Ljava/io/PrintStream; java/io/PrintStream println (Ljava/lang/String;)V append (I)Ljava/lang/StringBuilder; -(Ljava/lang/String;)Ljava/lang/StringBuilder; toString ()Ljava/lang/String; !               /     *· ±                        	      (     }¼
+YOY#OYñOYOY7OYOYêOL+¾l=ž J>+¾¢ ;+.66¡ !+d.¤ ++d.Od6§ÿß+O„§ÿÅl=§ÿ¸+¸ ±       6 
+    (  1  9 	 > 
+ A  R  \ 
+ e  k  q  x  |     >  > -    A *    3 >    - K      }      ( U ! "  #    ý - $ü ý 
+#ø ú   % &          B² ¶ <*¾¢ $² » Y· *.¶ 	¶ 
+¶ ¶ „§ÿÜ² 
+¶ ² ¶ ±                +  1  9  A       
+ '      B ' "   #   	 ü 
+ú &  (    )
